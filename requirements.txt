@@ -1,0 +1,2 @@
+# example usage: pip3 install -r requirements.txt
+wifi_qrcode_generator
