@@ -1,4 +1,5 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
+
 import wifi_qrcode_generator as wifi
 
 wifi_network = input('Enter WIFI network: ')
