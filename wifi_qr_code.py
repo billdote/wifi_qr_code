@@ -18,4 +18,4 @@ else:
     qrcode = wifi.wifi_qrcode(wifi_network, False, auth_type, wifi_password)
 
 # Save QR code
-qrcode.save("wifi.png")
+qrcode.save('wifi.png')
